@@ -19,8 +19,6 @@ Therefore, the central theme of my work is to address hardware security threats 
 
 ## My publications
 
-* L. Li, S. Ni, and A. Orailoglu, **“JANUS: Boosting Logic Obfuscation Scope Through Reconfigurable FSM Synthesis,”**
-in review at IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2021.
 * L. Li and A. Orailoglu, **“Redundancy Attack: Breaking Logic Locking through Oracle-less Rationality Analysis,”**
 in review at IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021.
 * B.Tan, [et al, including L.Li], **“A Community Review of Logic Locking: Reflections, Benchmarking, and Outlook,”**
