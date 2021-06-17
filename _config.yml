@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leon Li - PhD Student at UC San Diego"
+title                    : "Leon Li's Website"
 title_separator          : "-"
 name                     : &name "Leon Li"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : 
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."x
+  commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Leon Li"
   avatar           : "Headshot.jpg"
-  bio              : "PhD Student at UC San Diego"
+  bio              : #"PhD Student"
   location         : #"San Diego, California, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oa4KAbIAAAAJ"
-  email            :
+  email            : "xul065@ucsd.edu"
   researchgate     :  "https://www.researchgate.net/profile/Leon-Li-9"
   uri              :
   bitbucket        :
